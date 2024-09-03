@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: WebScraperChatBot
+Version: 0.0.1
+Author: sawan yadav
+Author-email: sawan.gomia@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: torch
+Requires-Dist: transformers
+Requires-Dist: flask
+Requires-Dist: beautifulsoup4
+Requires-Dist: requests
