@@ -17,7 +17,7 @@ This project used to do the webscrapping using pre-trained LLM model.
 
 7. Keep your application file of downloaded and unziped, chrome driver in your project folder.
 8. Install requirements
-   ``` pip install -r requirements.txt ```
+   ``` pip install -r requirements_1.txt ```
 9. Run the streamlit app to run the Chat Bot
     ``` streamlit run main.py ```
 10. First it will ask to give website link
